@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a student at UC Santa Cruz wanting to explore VR, HCI, computer graphics, accessible technology, web development, and game development.
+I'm a student at Cal Poly SLO wanting to explore VR, HCI, computer graphics, accessible technology, web development, and game development.
 
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on a Computer Science M.S. degree at California Polytechnic State University, San Luis Obispo.
